@@ -12,7 +12,7 @@ body {
 }
 
 section {
-  padding: 60px 0px;
+  padding: 50px 0px;
 }
 
 .row {
@@ -31,8 +31,6 @@ section {
 /* ---------- header  ----------*/
 header {
   padding: 14px 0px;
-  position: sticky;
-  top: 0px;
 }
 
 header .navbar {
